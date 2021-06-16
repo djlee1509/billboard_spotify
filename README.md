@@ -11,7 +11,7 @@ It will scrape the top 100 tracks on the date 20/04/21 then, add tracks to the p
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
